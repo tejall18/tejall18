@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tejal Mhatre and I'm a Data Science graduate from Vasai, India.</p>
+<p align="left">👋 Hello! I'm Tejal Mhatre, a passionate Data Science enthusiast with a focus on Machine Learning and its real-world applications.</p>
 
 ###
 
@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Machine Learning<br>🎯 Goals: Applying machine learning in real-world scenarios<br>🎲 Fun fact: I love exploring new datasets</p>
+<p align="left">📚 I'm currently learning Machine Learning<br>🎯 Goals: Applying machine learning in real-world scenarios<br>🎲 Fun fact: I love exploring new datasets<br> 
+🔬 Inquisitive and detail-oriented, I'm currently exploring the realms of data analysis and predictive modeling to extract actionable insights and drive decision-making processes.<br>
+💻 My expertise lies in Python, R, SQL, and various machine learning algorithms. I'm proficient in statistical analysis, regression, hypothesis testing, and time series analysis.<br>
+🛠️ Experienced in developing cutting-edge solutions, I've worked on projects ranging from customer segmentation using machine learning to fraud detection systems. I thrive in leveraging data-driven approaches to solve complex problems and optimize business strategies.<br>
+🎓 I hold a Bachelor's degree in Computer Science and Engineering from MCT’s Rajiv Gandhi Institute of Technology, Mumbai, with a CGPA of 9.50.<br>
+🏅 Additionally, I'm an IBM Certified Hadoop Apache Developer and have completed courses in statistical analysis from Great Learning. I was also recognized as a Finalist in the Smart India Hackathon, 2022.<br>
+📫 Feel free to connect with me on LinkedIn or reach out via email at tejalmhatre87@gmail.com. Let's collaborate and innovate together!</p>
+
 
 ###
 
